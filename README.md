@@ -8,14 +8,14 @@
 ## Technologies
 
 ### Web
-* [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
-* [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/)
+* [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) Official Google presentation.
+* [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) Official ASP.NET Core documentation.
 
 ### Desktop / Mobile
-* [Android Developers](https://developer.android.com/docs)
-* [Android Jetpack](https://developer.android.com/jetpack)
-* [Universal Windows Platform](https://docs.microsoft.com/en-us/windows/uwp/)
-* [Google AR Core](https://developers.google.com/ar/)
+* [Android Developers](https://developer.android.com/docs) Official Developers website.
+* [Android Jetpack](https://developer.android.com/jetpack) Jetpack Libraries official website.
+* [Universal Windows Platform](https://docs.microsoft.com/en-us/windows/uwp/) Official Microsoft documentation.
+* [Google AR Core](https://developers.google.com/ar/) Official website.
 
 ### CI/CD and Ops
 * [Introduction to CI/CD Best Practices](https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices)
