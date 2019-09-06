@@ -8,14 +8,14 @@
 ## Technologies
 
 ### Web
-* [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) Official Google presentation.
-* [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) Official ASP.NET Core documentation.
+* [Progressive Web Apps presentation by Google](https://developers.google.com/web/progressive-web-apps/)
+* [ASP.NET Core official documentation](https://docs.microsoft.com/en-us/aspnet/core/)
 
 ### Desktop / Mobile
-* [Android Developers](https://developer.android.com/docs) Official Developers website.
-* [Android Jetpack](https://developer.android.com/jetpack) Jetpack Libraries official website.
-* [Universal Windows Platform](https://docs.microsoft.com/en-us/windows/uwp/) Official Microsoft documentation.
-* [Google AR Core](https://developers.google.com/ar/) Official website.
+* [Android Developers official website](https://developer.android.com/docs)
+* [Android Jetpack libraries official website](https://developer.android.com/jetpack)
+* [Universal Windows Platform (UWP) documentation](https://docs.microsoft.com/en-us/windows/uwp/)
+* [Google AR Core official website](https://developers.google.com/ar/)
 
 ### CI/CD and Ops
 * [Introduction to CI/CD Best Practices](https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices)
@@ -28,16 +28,16 @@
 ## Design
 
 ### Material Design
-* [Material Design](https://material.io/design/)
-* [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html)
+* [Material Design official website](https://material.io/design/)
+* [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html) A tool to easily create various icons following Android guidelines.
 * [Material Design 2 — more than just rounded corners](https://medium.com/wertarbyte/material-design-2-more-than-just-rounded-corners-51e672e972a1)
 
 ### Fluent Design
-* [Fluent Design](https://www.microsoft.com/design/fluent/#/)
+* [Fluent Design official website](https://www.microsoft.com/design/fluent/#/)
 * [12 Fluent controls to add to your UWP app](https://medium.com/microsoft-design/12-fluent-controls-to-add-to-your-uwp-app-4f2f0430a113)
 
 ### Free Assets
-* [Google Poly](https://poly.google.com/) for 3D models
+* [Google Poly](https://poly.google.com/) Collection of freely available 3D models.
 
 ## Tech Management
 TODO
