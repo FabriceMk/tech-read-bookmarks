@@ -22,7 +22,7 @@
 * [Google Site Reliability Engineering (and books)](https://landing.google.com/sre/)
 
 ### Gaming
-* [Pico-8](https://www.lexaloffle.com/pico-8.php) A Fantasy Console with fuin limitations.
+* [Pico-8](https://www.lexaloffle.com/pico-8.php) A Fantasy Console with fun limitations.
 * [Tonc, ultimate introduction to GBA Development](http://www.coranac.com/tonc/) The reference to get started with GBA Development.
 
 ## Design
