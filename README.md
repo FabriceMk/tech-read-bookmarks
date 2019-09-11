@@ -38,6 +38,7 @@
 
 ### Free Assets
 * [Google Poly](https://poly.google.com/) Collection of freely available 3D models.
+* [Free Illustrations for your Landing pages (FR)](https://www.blogduwebdesign.com/illustrations-gratuites)
 
 ## Tech Management
 TODO
@@ -55,5 +56,6 @@ TODO
 ### Tutorials
 * [Learning Synth](https://learningsynths.ableton.com/) Learning the fundamentals of synthetizers.
 * [Pixel Grimoire](https://medium.com/pixel-grimoire) Tutorials for Pixel Art.
+* [Pixel Art Tutorial by MakeGames](https://makegames.tumblr.com/post/42648699708/pixel-art-tutorial)
 * [Learning Nanoloop in 30 mins](https://docpop.org/2014/05/nanoloop-tutorial-for-ios/) For music creation with Nanoloop.
 
