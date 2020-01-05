@@ -37,6 +37,7 @@
 * [Material Design official website](https://material.io/design/)
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html) A tool to easily create various icons following Android guidelines.
 * [Material Design 2 — more than just rounded corners](https://medium.com/wertarbyte/material-design-2-more-than-just-rounded-corners-51e672e972a1)
+* [Android P - What's new in Material Design](https://blog.usejournal.com/android-p-changes-in-new-material-design-ffb61e6112f9)
 
 ### Fluent Design
 * [Fluent Design official website](https://www.microsoft.com/design/fluent/#/)
