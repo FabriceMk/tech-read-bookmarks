@@ -25,6 +25,12 @@
 * [Pico-8](https://www.lexaloffle.com/pico-8.php) A Fantasy Console with fun limitations.
 * [Tonc, ultimate introduction to GBA Development](http://www.coranac.com/tonc/) The reference to get started with GBA Development.
 
+### Online Useful Tools
+* [carbon](https://carbon.now.sh/) Online tool to create pretty Shell scripts snippets.
+* [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) An online collection of tools to create various Android assets like icons.
+* [Material Theme Editor](https://glitch.com/~material-theme-builder) An online editor to create a Material theme for the web (Ref: https://material.io/resources/build-a-material-theme/#).
+* [Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) Color Scheme designer
+
 ## Design
 
 ### Material Design
