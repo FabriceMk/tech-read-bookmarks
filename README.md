@@ -51,7 +51,9 @@
 TODO
 
 ## Soft Skills
-TODO
+
+### Tech Writing
+* [Technical writing courses for engineers by Google](https://developers.google.com/tech-writing)
 
 ## Creation
 
@@ -59,6 +61,7 @@ TODO
 * [dotpict](https://play.google.com/store/apps/details?id=net.dotpicko.dotpict&hl=en_US) A really cool mobile PixelArt editor app.
 * [MagicaVoxel](https://ephtracy.github.io/) A desktop Voxel editor.
 * [Nanoloop](https://www.nanoloop.com/) A sequencer to create chiptunes.
+* [Pico-8](https://www.lexaloffle.com/pico-8.php) A Fantasy 8-bit console with integrated development tools to develop small and fun games.
 
 ### Tutorials
 * [Learning Synth](https://learningsynths.ableton.com/) Learning the fundamentals of synthetizers.
