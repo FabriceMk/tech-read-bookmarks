@@ -22,7 +22,7 @@
 * [Google Site Reliability Engineering (and books)](https://landing.google.com/sre/)
 
 ### Gaming
-* [Pico-8](https://www.lexaloffle.com/pico-8.php) A Fantasy Console with fun limitations.
+* [Pico-8](https://www.lexaloffle.com/pico-8.php) A Fantasy 8-bit console with integrated development tools to develop small and fun.
 * [Tonc, ultimate introduction to GBA Development](http://www.coranac.com/tonc/) The reference to get started with GBA Development.
 
 ### Online Useful Tools
@@ -35,7 +35,6 @@
 
 ### Material Design
 * [Material Design official website](https://material.io/design/)
-* [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html) A tool to easily create various icons following Android guidelines.
 * [Material Design 2 — more than just rounded corners](https://medium.com/wertarbyte/material-design-2-more-than-just-rounded-corners-51e672e972a1)
 * [Android P - What's new in Material Design](https://blog.usejournal.com/android-p-changes-in-new-material-design-ffb61e6112f9)
 
@@ -61,7 +60,6 @@ TODO
 * [dotpict](https://play.google.com/store/apps/details?id=net.dotpicko.dotpict&hl=en_US) A really cool mobile PixelArt editor app.
 * [MagicaVoxel](https://ephtracy.github.io/) A desktop Voxel editor.
 * [Nanoloop](https://www.nanoloop.com/) A sequencer to create chiptunes.
-* [Pico-8](https://www.lexaloffle.com/pico-8.php) A Fantasy 8-bit console with integrated development tools to develop small and fun games.
 
 ### Tutorials
 * [Learning Synth](https://learningsynths.ableton.com/) Learning the fundamentals of synthetizers.
