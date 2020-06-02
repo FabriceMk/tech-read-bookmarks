@@ -49,7 +49,10 @@
 * [Free Illustrations for your Landing pages (FR)](https://www.blogduwebdesign.com/illustrations-gratuites)
 
 ## Tech Management
-TODO
+* [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.goodreads.com/book/show/1317946.Managing_Humans)
+* [How to become a great engineering manager](https://devops.com/how-to-become-a-great-engineering-manager/)
+* [Things I've learn transitioning from engineer to engineering manager](https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/)
+* [90 days plan to turn engineers into remarkable managers](https://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 
 ## Soft Skills
 
