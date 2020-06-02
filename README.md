@@ -20,6 +20,8 @@
 ### CI/CD and Ops
 * [Introduction to CI/CD Best Practices](https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices)
 * [Google Site Reliability Engineering (and books)](https://landing.google.com/sre/)
+* [DevOps Checklist and Culture Checklist](https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops)
+* [Performance Efficiency Chechlist](https://docs.microsoft.com/en-us/azure/architecture/checklist/performance-efficiency)
 
 ### Gaming
 * [Pico-8](https://www.lexaloffle.com/pico-8.php) A Fantasy 8-bit console with integrated development tools to develop small and fun.
