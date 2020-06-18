@@ -53,6 +53,9 @@
 * [Things I've learn transitioning from engineer to engineering manager](https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/)
 * [90 days plan to turn engineers into remarkable managers](https://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 
+## Marketing
+* [Tips, trends, and industry thoughts for app & game developers building businesses on Google Play](https://medium.com/googleplaydev)
+
 ## Soft Skills
 
 ### Tech Writing
