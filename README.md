@@ -46,6 +46,8 @@
 ### Free Assets
 * [Google Poly](https://poly.google.com/) Collection of freely available 3D models.
 * [Free Illustrations for your Landing pages (FR)](https://www.blogduwebdesign.com/illustrations-gratuites)
+* [Undraw Collection of Illustrations](https://undraw.co/illustrations)
+* [Artify Collection of Illustrations](https://www.artify.co/illustrations)
 
 ## Tech Management
 * [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.goodreads.com/book/show/1317946.Managing_Humans)
