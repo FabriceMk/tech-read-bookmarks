@@ -24,6 +24,7 @@ TBA
 ### Go
 * [Go by Example](https://gobyexample.com/) Nice examples of various usecases of the language and patterns
 * [Go 10 Week Backend Eng Onboarding](https://stream-wiki.notion.site/Stream-Go-10-Week-Backend-Eng-Onboarding-625363c8c3684753b7f2b7d829bcd67a) Nice 10 weeks course with a lot of content
+* [Anton Zhiyanov Blog](https://antonz.org/all/) A blog with nice explanation of lot of concepts and every Go release explanations.
 * [Echo Framework](https://echo.labstack.com/) Nice lightweight webframework
 * [“Accept interfaces, return structs” in Go](https://bryanftan.medium.com/accept-interfaces-return-structs-in-go-d4cab29a301b) Good article about how interfaces in Go are different
 * [Gocurrency](https://www.futurice.com/blog/gocurrency) Article about concurrency in Go and patterns
